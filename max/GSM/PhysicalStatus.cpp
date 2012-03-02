@@ -58,7 +58,7 @@ static const char* createPhysicalStatus = {
 		"TIME_ERR FLOAT DEFAULT NULL, "						// timing advance error in symbol periods
 		"TRANS_PWR INTEGER DEFAULT NULL, "					// handset tx power in dBm
 		"TIME_ADVC INTEGER DEFAULT NULL, "					// handset timing advance in symbol periods
-		"FER FLOAT DEFAULT NULL "							// uplink FER
+		"FER FLOAT DEFAULT NULL, "							// uplink FER
 		"NO_NCELL INTEGER DEFAULT NULL, "			// !!!NEW : 0...6, Anzahl der Nachbarzellen
 		"RXLEV_CELL_1 INTEGER DEFAULT NULL, "			// !!!NEW : Empfangspegel der Nachbarzelle 1
 		"BCCH_FREQ_CELL_1 INTEGER DEFAULT NULL, "		// !!!NEW : 0...31, Broadcast Channel Freq. der Nachbarzelle 1
@@ -77,7 +77,7 @@ static const char* createPhysicalStatus = {
 		"BSIC_CELL_5 INTEGER DEFAULT NULL, "			// !!!NEW : 6-bit, Base Station ID Code der Nachbarzelle 5
 		"RXLEV_CELL_6 INTEGER DEFAULT NULL, "			// !!!NEW : Empfangspegel der Nachbarzelle 6
 		"BCCH_FREQ_CELL_6 INTEGER DEFAULT NULL, "		// !!!NEW : 0...31, Broadcast Channel Freq. der Nachbarzelle 6
-		"BSIC_CELL_6 INTEGER DEFAULT NULL, "			// !!!NEW : 6-bit, Base Station ID Code der Nachbarzelle 6
+		"BSIC_CELL_6 INTEGER DEFAULT NULL "			// !!!NEW : 6-bit, Base Station ID Code der Nachbarzelle 6
 	")"
 };
 
