@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<dump>
+<l1 direction="down" logicalchannel="80" physicalchannel="867" sequence="49067" error="0" timeshift="2795" bsic="2" data="49061B000A62F29903E85100052F60407904002B2B2B2B" >
+<l2 data="061B000A62F29903E85100052F6040790400" rest="2B2B2B2B" >
+</l2>
+</l1>
+<l1 direction="down" logicalchannel="80" physicalchannel="867" sequence="49118" error="0" timeshift="2795" bsic="2" data="31061C62F29903E860407904002B2B2B2B2B2B2B2B2B2B" >
+<l2 data="061C62F29903E86040790400" rest="2B2B2B2B2B2B2B2B2B2B" >
+</l2>
+</l1>
+<l1 direction="down" logicalchannel="80" physicalchannel="867" sequence="49169" error="0" timeshift="2795" bsic="2" data="49061B000A62F29903E85100052F60407904002B2B2B2B" >
+<l2 data="061B000A62F29903E85100052F6040790400" rest="2B2B2B2B" >
+</l2>
+</l1>
+<l1 direction="down" logicalchannel="80" physicalchannel="867" sequence="49220" error="0" timeshift="2795" bsic="2" data="59061A8FA7000000000000000000000000000001790400" >
+<l2 data="061A8FA7000000000000000000000000000001790400" rest="" >
+</l2>
+</l1>
+<l1 direction="down" logicalchannel="80" physicalchannel="867" sequence="49271" error="0" timeshift="2795" bsic="2" data="49061B000A62F29903E85100052F60407904002B2B2B2B" >
+<l2 data="061B000A62F29903E85100052F6040790400" rest="2B2B2B2B" >
+</l2>
+</l1>
+<l1 direction="down" logicalchannel="80" physicalchannel="867" sequence="49322" error="0" timeshift="2795" bsic="2" data="31061C62F29903E860407904002B2B2B2B2B2B2B2B2B2B" >
+<l2 data="061C62F29903E86040790400" rest="2B2B2B2B2B2B2B2B2B2B" >
+</l2>
+</l1>
+<l1 direction="down" logicalchannel="80" physicalchannel="867" sequence="49373" error="0" timeshift="2795" bsic="2" data="5506198E0000000000000000000000000000007904002B" >
+<l2 data="06198E000000000000000000000000000000790400" rest="2B" >
+</l2>
+</l1>
+<l1 direction="down" logicalchannel="80" physicalchannel="867" sequence="55136" error="0" timeshift="2795" bsic="2" data="59061A8FA7000000000000000000000000000001790400" >
+<l2 data="061A8FA7000000000000000000000000000001790400" rest="" >
+</l2>
+</l1>
+<l1 direction="down" logicalchannel="80" physicalchannel="867" sequence="55187" error="0" timeshift="2795" bsic="2" data="49061B000A62F29903E85100052F60407904002B2B2B2B" >
+<l2 data="061B000A62F29903E85100052F6040790400" rest="2B2B2B2B" >
+</l2>
+</l1>
+<l1 direction="down" logicalchannel="80" physicalchannel="867" sequence="55238" error="0" timeshift="2795" bsic="2" data="31061C62F29903E860407904002B2B2B2B2B2B2B2B2B2B" >
+<l2 data="061C62F29903E86040790400" rest="2B2B2B2B2B2B2B2B2B2B" >
+</l2>
+</l1>
+<l1 direction="down" logicalchannel="80" physicalchannel="867" sequence="55289" error="0" timeshift="2795" bsic="2" data="49061B000A62F29903E85100052F60407904002B2B2B2B" >
+<l2 data="061B000A62F29903E85100052F6040790400" rest="2B2B2B2B" >
+</l2>
+</l1>
+<l1 direction="down" logicalchannel="80" physicalchannel="867" sequence="55340" error="0" timeshift="2795" bsic="2" data="59061A8FA7000000000000000000000000000001790400" >
+<l2 data="061A8FA7000000000000000000000000000001790400" rest="" >
+</l2>
+</l1>
+<l1 direction="down" logicalchannel="80" physicalchannel="867" sequence="55391" error="0" timeshift="2795" bsic="2" data="49061B000A62F29903E85100052F60407904002B2B2B2B" >
+<l2 data="061B000A62F29903E85100052F6040790400" rest="2B2B2B2B" >
+</l2>
+</l1>
+<l1 direction="down" logicalchannel="80" physicalchannel="867" sequence="55442" error="0" timeshift="2795" bsic="2" data="31061C62F29903E860407904002B2B2B2B2B2B2B2B2B2B" >
+<l2 data="061C62F29903E86040790400" rest="2B2B2B2B2B2B2B2B2B2B" >
+</l2>
+</l1>
+<l1 direction="down" logicalchannel="80" physicalchannel="867" sequence="55493" error="0" timeshift="2795" bsic="2" data="5506198E0000000000000000000000000000007904002B" >
+<l2 data="06198E000000000000000000000000000000790400" rest="2B" >
+</l2>
+</l1>
+</dump>
